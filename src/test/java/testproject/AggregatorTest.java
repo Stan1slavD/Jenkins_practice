@@ -14,7 +14,7 @@ public class AggregatorTest {
     @Test
     public void testSingleAddition() {
         Aggregator agr = new Aggregator();
-        double val = 20;
+        double val = 21;
         agr.addValue(val);
         assertThat(agr.getSum()).isEqualTo(val);
     }

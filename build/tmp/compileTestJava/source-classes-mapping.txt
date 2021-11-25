@@ -1,4 +1,4 @@
-testproject/AggregatorTest.java
- testproject.AggregatorTest
 testproject/CalculatorTest.java
  testproject.CalculatorTest
+testproject/AggregatorTest.java
+ testproject.AggregatorTest
