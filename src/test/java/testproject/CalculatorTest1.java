@@ -3,7 +3,7 @@ package testproject;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.*;
 
-public class CalculatorTest {
+public class CalculatorTest1 {
 
     @Test
     public void testSum() {
